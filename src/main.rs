@@ -1,5 +1,3 @@
-use core::num::FpCategory::Subnormal;
-use std::any::Any;
 use std::collections::HashMap;
 use std::fmt::Debug;
 use std::fs;
