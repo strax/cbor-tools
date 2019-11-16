@@ -1,5 +1,5 @@
 [package]
-name = "cbordump"
+name = "cbor-tools"
 version = "0.1.0"
 authors = ["Sami Kukkonen"]
 edition = "2018"
